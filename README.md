@@ -11,6 +11,8 @@ This includes:
 - Adding a responsive header / menu
 - A basic Layout component
 
+You can see it live here: https://react-static-base.dbtlr.com
+
 ## Installation
 
 First, follow the instruction for installing the React Static command line tool.
