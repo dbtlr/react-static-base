@@ -32,7 +32,7 @@ const Header = styled.header`
     text-decoration: none;
     
     &:hover {
-      color: var(--secondary-color);
+      color: var(--light-secondary-color);
     }
   }
 }
@@ -64,7 +64,7 @@ const MenuToggle = styled.div`
   }
   
   &.toggled path {
-    fill: var(--secondary-color);
+    fill: var(--light-secondary-color);
   }
 `;
 
