@@ -31,7 +31,7 @@ Perhaps this structure isn't for you.
 
 ## Special Thanks
 
-I want to thank The team at Nozzle, especially [Tanner Linsley](https://github.com/tannerlinsley) for creating React Static. It has absolutely changed how I think about starting new React projects.
+I want to thank the team at [Nozzle](https://nozzle.io), especially [Tanner Linsley](https://github.com/tannerlinsley) for creating React Static. It has absolutely changed how I think about starting new React projects.
 
 ## License
 
