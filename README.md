@@ -18,10 +18,10 @@ First, follow the instruction for installing the React Static command line tool.
 Next, run the following command:
 
 ```
-react-static create --template=custom
+react-static create --template=https://github.com/dbtlr/react-static-base
 ```
 
-You will be asked to first name your application. Then you will be asked to "Specify a public repo from GitHub...", answer with `dbtlr/react-static-base`.
+You will be asked to name your application and it will be created in your current directory.
 
 ## Motivation
 
