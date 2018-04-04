@@ -1,3 +1,4 @@
+import React from 'react';
 import { ServerStyleSheet } from 'styled-components';
 import Document from './src/Document';
 
