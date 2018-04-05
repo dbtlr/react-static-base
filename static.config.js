@@ -6,6 +6,8 @@ export default {
   siteRoot: process.env.SITE_ROOT || 'http://localhost:3000',
   getSiteData: () => ({
     title: 'React Static Base',
+    siteRoot: process.env.SITE_ROOT || 'http://localhost:3000',
+    googleAnalyticsId: process.env.GOOGLE_ANALYTICS || null,
   }),
   getRoutes: async () => {
     return [
