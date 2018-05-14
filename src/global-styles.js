@@ -1,8 +1,9 @@
 
 import { injectGlobal } from 'styled-components';
 
+import 'typeface-open-sans';
+
 injectGlobal`
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,700);
 
 :root {
   --background-color: #FFFFFA;
