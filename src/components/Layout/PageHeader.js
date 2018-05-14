@@ -126,10 +126,10 @@ class PageHeader extends Component {
     return (
       <Header className="page-header">
         <SiteTitle><Link to="/">{ title }</Link></SiteTitle>
-        <MenuToggle onClick={ this.toggleMenu } className={ menuOpen ? 'toggled' : '' }>
+        <MenuToggle onClick={this.toggleMenu} className={menuOpen ? 'toggled' : ''}>
           <BarsIcon className="fa-2x" />
         </MenuToggle>
-        <Menu className={ menuOpen ? 'opened' : 'closed' }>
+        <Menu className={menuOpen ? 'opened' : 'closed'}>
           <a href="https://github.com/dbtlr/react-static-base">Github</a>
         </Menu>
       </Header>

@@ -28,7 +28,7 @@ export default class Layout extends Component {
           <title>{ pageTitle }</title>
         </Head>
         <PageHeader />
-        <Container className={ className }>
+        <Container className={className}>
           { children }
         </Container>
         <PageFooter />
