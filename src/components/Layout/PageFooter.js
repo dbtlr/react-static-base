@@ -15,7 +15,7 @@ export default class PageFooter extends Component {
     return (
       <Footer className="page-footer">
         <p>
-          Made with ❤️ by <a href="https://dbtlr.com" title="Drew Butler">Drew Butler</a>
+          Made with <span role="img" aria-label="love">❤️</span> by <a href="https://dbtlr.com" title="Drew Butler">Drew Butler</a>
         </p>
       </Footer>
     );

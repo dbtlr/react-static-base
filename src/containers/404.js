@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Layout from '../components/Layout/index';
-import { BlindIcon } from '../components/icons';
+import { BlindIcon } from '../components/Icons';
 import { Title, Article } from '../components/elements';
 
 export default class Home extends Component {

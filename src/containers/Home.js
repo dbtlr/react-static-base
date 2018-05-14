@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 import Layout from '../components/Layout/index';
-import { HomeIcon } from '../components/icons';
+import { HomeIcon } from '../components/Icons';
 import { Title, Article as ArticleBase } from '../components/elements';
 
 const Article = styled(ArticleBase)`

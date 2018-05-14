@@ -7,7 +7,8 @@
     "start": "react-static start",
     "stage": "react-static build --staging",
     "build": "react-static build",
-    "serve": "serve dist -p 3000"
+    "serve": "serve dist -p 3000",
+    "lint": "eslint ./src"
   },
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.5",

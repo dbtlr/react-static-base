@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { withSiteData, Link } from 'react-static';
-import { BarsIcon } from '../icons/index';
+import { BarsIcon } from '../Icons';
 
 const Header = styled.header`
   padding: 1rem 2rem;
